@@ -41,8 +41,8 @@ VITE_API_URL=http://localhost:5000
 
 ## Live Demo
 
-- **Frontend** - coming soon
-- **Backend API** - coming soon
+- **Frontend** → https://prescription-platform.vercel.app
+- **Backend API** → https://prescription-platform.onrender.com
 
 ## Test Credentials
 
